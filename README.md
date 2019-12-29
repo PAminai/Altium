@@ -18,14 +18,17 @@ Course Channel: t.me\Altium_ShirazU
 
 # Projects: 
 * First project: CE amplifier design
+
     Link to submit: ---
     
     
 *	Second project: Creating library for reference voltage IC and regulators
+
     Link to submit: ----
     
     
 *	Final project: IR proximity sensor design
+
     Link to submit: ---
 
 
