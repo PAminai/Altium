@@ -1,5 +1,5 @@
 # Altium 
-This is the homepage for the Altium Designer Course. Here you can find links to all class materials used your projects.
+This is the homepage for the Altium Designer Course. Here you can find links to all class materials used your for projects.
 
 Instructor: Pouya Aminaie (pooya.aminai@gmail.com)
 Course Channel: t.me\Altium_ShirazU
