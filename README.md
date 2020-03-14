@@ -1,7 +1,7 @@
 # Altium 
 This is the homepage for the Altium Designer Course. Here you can find links to all class materials used your for projects.
 
-Instructor: Pouya Aminaie (pooya.aminai@gmail.com)
+Instructor: Pouya Aminaie (pouya.aminaie@gmail.com)
 Course Channel: t.me\Altium_ShirazU
 
 *	Required Time: 20 hours / 14 sessions, (2 sessions per week)
